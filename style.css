@@ -1,0 +1,28 @@
+
+body {
+    background: #fefefe
+}
+
+h1 {
+    color: rgb(0, 0, 139)
+}
+
+
+
+
+
+.dark-header {
+    color:#136F2B;
+}
+
+.forest-green-header {
+    color:#519872;
+}
+
+.spokojny-tekst-paragrafu{
+    color:#34252f;
+}
+
+nav a {
+    color:rgba(26, 27, 26, 0.4)
+}
